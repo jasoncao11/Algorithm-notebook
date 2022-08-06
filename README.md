@@ -6,7 +6,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 
 ### 1. 数学
 
-- 01. [两数之和](01. 两数之和.md)
+- 01. [两数之和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/01.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 - 02. [两数相加](02. 两数相加.md)
 - 05. [整数反转](05. 整数反转.md)
 - 15. [有效的数独](15. 有效的数独.md)
