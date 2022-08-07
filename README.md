@@ -56,6 +56,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [10. 合并两个有序链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/10.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 - [35. 二叉树的最大深度](https://github.com/jasoncao11/Algorithm-notebook/blob/master/35.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
 - [36. 从前序与中序遍历序列构造二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/36.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [37. 将有序数组转换为二叉搜索树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/37.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 
 ### 8. 二分法
 
