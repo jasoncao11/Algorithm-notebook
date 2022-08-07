@@ -26,6 +26,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [20. 最大子数组和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/20.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)
 - [22. 不同路径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/22.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
 - [24. 爬楼梯](https://github.com/jasoncao11/Algorithm-notebook/blob/master/24.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+- [31. 解码方法](https://github.com/jasoncao11/Algorithm-notebook/blob/master/31.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
 
 ### 4. 双指针
 
@@ -53,9 +54,15 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 ### 7. 递归
 
 - [10. 合并两个有序链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/10.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+- [35. 二叉树的最大深度](https://github.com/jasoncao11/Algorithm-notebook/blob/master/35.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
 
 ### 8. 二分法
 
 - [13. 搜索旋转排序数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/13.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [14. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/jasoncao11/Algorithm-notebook/blob/master/14.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 - [23. x 的平方根](https://github.com/jasoncao11/Algorithm-notebook/blob/master/23.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+
+### 9. 二叉树
+- [32. 二叉树的中序遍历](https://github.com/jasoncao11/Algorithm-notebook/blob/master/32.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+- [33. 对称二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/33.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [34. 二叉树的层序遍历](https://github.com/jasoncao11/Algorithm-notebook/blob/master/34.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md)
