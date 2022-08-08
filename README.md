@@ -50,6 +50,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [41. 反转链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 - [51. 环形链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/51.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 - [52. 相交链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/52.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
+- [56. 快乐数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/56.%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
 
 ### 5. 回溯
 
