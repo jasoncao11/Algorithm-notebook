@@ -46,6 +46,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [30. 合并两个有序数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/30.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [41. 反转链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 - [51. 环形链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/51.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
+- [52. 相交链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/52.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
 
 ### 5. 回溯
 
