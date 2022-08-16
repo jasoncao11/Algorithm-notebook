@@ -44,6 +44,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [63. 单词拆分](https://github.com/jasoncao11/Algorithm-notebook/blob/master/63.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
 - [64. 目标和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/64.%20%E7%9B%AE%E6%A0%87%E5%92%8C.md)
 - [65. 完全平方数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/65.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+- [67. 分割等和子集](https://github.com/jasoncao11/Algorithm-notebook/blob/master/67.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
+- [68. 零钱兑换](https://github.com/jasoncao11/Algorithm-notebook/blob/master/68.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 
 ### 4. 双指针
 
