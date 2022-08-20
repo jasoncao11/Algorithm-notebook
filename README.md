@@ -61,6 +61,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [52. 相交链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/52.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
 - [56. 快乐数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/56.%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
 - [57. 数组中的第K个最大元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/57.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md)
+- [70. 移动零](https://github.com/jasoncao11/Algorithm-notebook/blob/master/70.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
+- [71. 调整数组顺序使奇数位于偶数前面](https://github.com/jasoncao11/Algorithm-notebook/blob/master/71.%20%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)
 
 ### 5. 回溯
 
