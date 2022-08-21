@@ -74,11 +74,16 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [44. 分割回文串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/44.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 - [59. 岛屿数量](https://github.com/jasoncao11/Algorithm-notebook/blob/master/59.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)
 - [66. 把数字翻译成字符串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/66.%20%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [72. 背包问题](https://github.com/jasoncao11/Algorithm-notebook/blob/master/72.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 
 ### 6. 栈
 
 - [09. 删除链表的倒数第 N 个结点](https://github.com/jasoncao11/Algorithm-notebook/blob/master/09.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 - [29. 柱状图中最大的矩形](https://github.com/jasoncao11/Algorithm-notebook/blob/master/29.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
+- [73. 每日温度](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [74. 有效的括号](https://github.com/jasoncao11/Algorithm-notebook/blob/master/74.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+- [75. 字符串解码](https://github.com/jasoncao11/Algorithm-notebook/blob/master/75.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
+- [76. 栈的压入、弹出序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/76.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 
 ### 7. 递归
 
