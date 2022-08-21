@@ -97,6 +97,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [78. 二叉树展开为链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/78.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
 - [79. 合并二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/79.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [80. 翻转二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/80.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [81. 二叉树的直径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/81.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
+- [82. 二叉树的最近公共祖先](https://github.com/jasoncao11/Algorithm-notebook/blob/master/82.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
 
 ### 8. 二分法
 
@@ -112,3 +114,6 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 
 ### 10. 拓扑排序
 - [60. 课程表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/60.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
+
+### 11. Trie
+- [83. 构建Trie](https://github.com/jasoncao11/Algorithm-notebook/blob/master/83.%20%E6%9E%84%E5%BB%BATrie.md)
