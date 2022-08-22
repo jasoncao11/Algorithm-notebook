@@ -117,3 +117,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 
 ### 11. Trie
 - [83. 构建Trie](https://github.com/jasoncao11/Algorithm-notebook/blob/master/83.%20%E6%9E%84%E5%BB%BATrie.md)
+
+### 12. 堆
+- [84. 前 K 个高频元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/84.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
+- [85. 最小的k个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/85.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
