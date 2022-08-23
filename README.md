@@ -24,6 +24,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 
 - [03. 无重复字符的最长子串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/03.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 - [26. 最小覆盖子串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/26.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
+- [92. 找到字符串中所有字母异位词](https://github.com/jasoncao11/Algorithm-notebook/blob/master/92.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+- [93. 和为s的连续正数序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/93.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md)
 
 ### 3. 动态规划
 
@@ -58,7 +60,6 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [30. 合并两个有序数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/30.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [41. 反转链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 - [51. 环形链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/51.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
-- [87. 环形链表 II](https://github.com/jasoncao11/Algorithm-notebook/blob/master/87.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
 - [87. 环形链表 II](https://github.com/jasoncao11/Algorithm-notebook/blob/master/87.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
 - [88. 链表的中间结点](https://github.com/jasoncao11/Algorithm-notebook/blob/master/88.%20%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md)
 - [89. 回文链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/89.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
