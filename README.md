@@ -121,3 +121,6 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 ### 12. 堆
 - [84. 前 K 个高频元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/84.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
 - [85. 最小的k个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/85.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
+
+### 13. 队列
+- [86. 滑动窗口最大值](https://github.com/jasoncao11/Algorithm-notebook/blob/master/86.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
