@@ -25,6 +25,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [03. 无重复字符的最长子串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/03.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 - [26. 最小覆盖子串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/26.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
 - [92. 找到字符串中所有字母异位词](https://github.com/jasoncao11/Algorithm-notebook/blob/master/92.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+- [86. 滑动窗口最大值](https://github.com/jasoncao11/Algorithm-notebook/blob/master/86.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 - [93. 和为s的连续正数序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/93.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md)
 
 ### 3. 动态规划
@@ -129,6 +130,3 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 ### 12. 堆
 - [84. 前 K 个高频元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/84.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
 - [85. 最小的k个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/85.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
-
-### 13. 队列
-- [86. 滑动窗口最大值](https://github.com/jasoncao11/Algorithm-notebook/blob/master/86.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
