@@ -80,6 +80,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [59. 岛屿数量](https://github.com/jasoncao11/Algorithm-notebook/blob/master/59.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)
 - [66. 把数字翻译成字符串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/66.%20%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [72. 背包问题](https://github.com/jasoncao11/Algorithm-notebook/blob/master/72.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+- [94. 24 点游戏](https://github.com/jasoncao11/Algorithm-notebook/blob/master/94.%2024%20%E7%82%B9%E6%B8%B8%E6%88%8F.md)
 
 ### 6. 栈
 
@@ -97,14 +98,15 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [36. 从前序与中序遍历序列构造二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/36.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [37. 将有序数组转换为二叉搜索树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/37.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 - [41. 反转链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
-- [46. 二叉树中的最大路径和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/46.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)
-- [77. 平衡二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/77.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [78. 二叉树展开为链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/78.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
 - [79. 合并二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/79.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [80. 翻转二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/80.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-- [81. 二叉树的直径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/81.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
 - [82. 二叉树的最近公共祖先](https://github.com/jasoncao11/Algorithm-notebook/blob/master/82.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
 - [90. 从头到尾打印列表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/90.%20%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E5%88%97%E8%A1%A8.md)
+- [94. 24 点游戏](https://github.com/jasoncao11/Algorithm-notebook/blob/master/94.%2024%20%E7%82%B9%E6%B8%B8%E6%88%8F.md)
+- [77. 平衡二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/77.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [81. 二叉树的直径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/81.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
+- [46. 二叉树中的最大路径和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/46.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)
 
 ### 8. 二分法
 
