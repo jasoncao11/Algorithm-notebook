@@ -103,6 +103,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [80. 翻转二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/80.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [82. 二叉树的最近公共祖先](https://github.com/jasoncao11/Algorithm-notebook/blob/master/82.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
 - [90. 从头到尾打印列表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/90.%20%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E5%88%97%E8%A1%A8.md)
+- [97. 二叉搜索树的后序遍历序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/97.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
 - [94. 24 点游戏](https://github.com/jasoncao11/Algorithm-notebook/blob/master/94.%2024%20%E7%82%B9%E6%B8%B8%E6%88%8F.md)
 - [77. 平衡二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/77.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [81. 二叉树的直径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/81.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
