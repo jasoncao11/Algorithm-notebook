@@ -82,6 +82,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [66. 把数字翻译成字符串](https://github.com/jasoncao11/Algorithm-notebook/blob/master/66.%20%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [72. 背包问题](https://github.com/jasoncao11/Algorithm-notebook/blob/master/72.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 - [94. 24 点游戏](https://github.com/jasoncao11/Algorithm-notebook/blob/master/94.%2024%20%E7%82%B9%E6%B8%B8%E6%88%8F.md)
+- [98. 二叉树中和为某一值的路径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/98.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
 
 ### 6. 栈
 
