@@ -118,6 +118,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 ### 9. 二叉树
 - [32. 二叉树的中序遍历](https://github.com/jasoncao11/Algorithm-notebook/blob/master/32.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 - [95. 二叉搜索树的第k大节点](https://github.com/jasoncao11/Algorithm-notebook/blob/master/95.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.md)
+- [96. 验证二叉搜索树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/96.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 - [33. 对称二叉树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/33.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [34. 二叉树的层序遍历](https://github.com/jasoncao11/Algorithm-notebook/blob/master/34.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 - [38. 填充每个节点的下一个右侧节点指针](https://github.com/jasoncao11/Algorithm-notebook/blob/master/38.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md)
