@@ -111,6 +111,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [81. 二叉树的直径](https://github.com/jasoncao11/Algorithm-notebook/blob/master/81.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
 - [46. 二叉树中的最大路径和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/46.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)
 - [99. 把二叉搜索树转换为累加树](https://github.com/jasoncao11/Algorithm-notebook/blob/master/99.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md)
+- [P100. 打家劫舍 III](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P100.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20III.md)
 
 ### 8. 二分法
 
