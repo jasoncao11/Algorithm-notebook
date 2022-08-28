@@ -94,6 +94,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [74. 有效的括号](https://github.com/jasoncao11/Algorithm-notebook/blob/master/74.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 - [75. 字符串解码](https://github.com/jasoncao11/Algorithm-notebook/blob/master/75.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
 - [76. 栈的压入、弹出序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/76.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
+- [P103. 外观数列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P103.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)
 
 ### 7. 递归
 
