@@ -50,6 +50,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [67. 分割等和子集](https://github.com/jasoncao11/Algorithm-notebook/blob/master/67.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 - [68. 零钱兑换](https://github.com/jasoncao11/Algorithm-notebook/blob/master/68.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 - [69. 丑数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/69.%20%E4%B8%91%E6%95%B0.md)
+- [P101. 最长有效括号](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P101.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
+- [P102. 最大正方形](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P102.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
 
 ### 4. 双指针
 
