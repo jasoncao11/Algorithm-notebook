@@ -7,6 +7,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 ### 1. 数学
 
 - [01. 两数之和](https://github.com/jasoncao11/Algorithm-notebook/blob/master/01.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [P107. 四数相加 II](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P107.%20%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md)
 - [43. 最长连续序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/43.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 - [02. 两数相加](https://github.com/jasoncao11/Algorithm-notebook/blob/master/02.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 - [05. 整数反转](https://github.com/jasoncao11/Algorithm-notebook/blob/master/05.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
@@ -63,6 +64,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [25. 颜色分类](https://github.com/jasoncao11/Algorithm-notebook/blob/master/25.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 - [30. 合并两个有序数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/30.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [41. 反转链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [P108. 奇偶链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P108.%20%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md)
 - [51. 环形链表](https://github.com/jasoncao11/Algorithm-notebook/blob/master/51.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 - [87. 环形链表 II](https://github.com/jasoncao11/Algorithm-notebook/blob/master/87.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
 - [88. 链表的中间结点](https://github.com/jasoncao11/Algorithm-notebook/blob/master/88.%20%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md)
@@ -123,6 +125,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [13. 搜索旋转排序数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/13.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [14. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/jasoncao11/Algorithm-notebook/blob/master/14.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 - [23. x 的平方根](https://github.com/jasoncao11/Algorithm-notebook/blob/master/23.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+- [P106. 寻找峰值](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P106.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)
 
 ### 9. 二叉树
 - [32. 二叉树的中序遍历](https://github.com/jasoncao11/Algorithm-notebook/blob/master/32.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
