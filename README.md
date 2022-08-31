@@ -23,6 +23,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 - [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 - [P112. 搜索二维矩阵](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P112.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md)
+- [P113. 和为K的子数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P113.%20%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
+- [P114. 除自身以外数组的乘积](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P114.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md)
 
 ### 2. 滑动窗口
 
