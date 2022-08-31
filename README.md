@@ -21,6 +21,8 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [53. 颠倒二进制位](https://github.com/jasoncao11/Algorithm-notebook/blob/master/53.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.md)
 - [54. 位1的个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/54.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 - [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
+- [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
+- [P112. 搜索二维矩阵](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P112.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md)
 
 ### 2. 滑动窗口
 
