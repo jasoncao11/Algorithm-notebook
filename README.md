@@ -17,6 +17,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [21. 跳跃游戏](https://github.com/jasoncao11/Algorithm-notebook/blob/master/21.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
 - [39. 杨辉三角](https://github.com/jasoncao11/Algorithm-notebook/blob/master/39.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)
 - [45. 只出现一次的数字](https://github.com/jasoncao11/Algorithm-notebook/blob/master/45.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
+- [P111. 丢失的数字](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P111.%20%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 - [53. 颠倒二进制位](https://github.com/jasoncao11/Algorithm-notebook/blob/master/53.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.md)
 - [54. 位1的个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/54.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 - [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
