@@ -10,6 +10,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [P107. 四数相加 II](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P107.%20%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md)
 - [43. 最长连续序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/43.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 - [02. 两数相加](https://github.com/jasoncao11/Algorithm-notebook/blob/master/02.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
+- [P115. 加一](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P115.%20%E5%8A%A0%E4%B8%80.md)
 - [05. 整数反转](https://github.com/jasoncao11/Algorithm-notebook/blob/master/05.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
 - [15. 有效的数独](https://github.com/jasoncao11/Algorithm-notebook/blob/master/15.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
 - [18. 旋转图像](https://github.com/jasoncao11/Algorithm-notebook/blob/master/18.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
