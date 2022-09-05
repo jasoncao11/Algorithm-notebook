@@ -22,7 +22,6 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 - [53. 颠倒二进制位](https://github.com/jasoncao11/Algorithm-notebook/blob/master/53.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.md)
 - [54. 位1的个数](https://github.com/jasoncao11/Algorithm-notebook/blob/master/54.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 - [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
-- [55. 多数元素](https://github.com/jasoncao11/Algorithm-notebook/blob/master/55.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
 - [P112. 搜索二维矩阵](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P112.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md)
 - [P113. 和为K的子数组](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P113.%20%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
 - [P114. 除自身以外数组的乘积](https://github.com/jasoncao11/Algorithm-notebook/blob/master/P114.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md)
@@ -100,7 +99,7 @@ LeetCode 精选算法题, Python题解+详细注释，持续更新。
 
 - [09. 删除链表的倒数第 N 个结点](https://github.com/jasoncao11/Algorithm-notebook/blob/master/09.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 - [29. 柱状图中最大的矩形](https://github.com/jasoncao11/Algorithm-notebook/blob/master/29.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
-- [73. 每日温度](https://github.com/jasoncao11/Algorithm-notebook/blob/master/41.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [73. 每日温度](https://github.com/jasoncao11/Algorithm-notebook/blob/master/73.%20%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md)
 - [74. 有效的括号](https://github.com/jasoncao11/Algorithm-notebook/blob/master/74.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 - [75. 字符串解码](https://github.com/jasoncao11/Algorithm-notebook/blob/master/75.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
 - [76. 栈的压入、弹出序列](https://github.com/jasoncao11/Algorithm-notebook/blob/master/76.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
